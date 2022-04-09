@@ -3,6 +3,9 @@ package dev.mrgek.algorithms;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+* problem: https://leetcode.com/problems/two-sum/
+* */
 public class TwoSum {
 
     public int[] solve(int[] numbers, int target) {

@@ -2,6 +2,10 @@ package dev.mrgek.algorithms;
 
 import java.util.Arrays;
 
+/*
+* problem: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+* */
+
 public class KthLargest {
 
     private final int k;
@@ -9,7 +13,7 @@ public class KthLargest {
     private int[] array;
 
 
-    KthLargest(final int k, final int[] array) {
+    public KthLargest(final int k, final int[] array) {
 
         this.k = k;
         this.array = array;
