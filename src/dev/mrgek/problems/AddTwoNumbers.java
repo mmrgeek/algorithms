@@ -1,4 +1,4 @@
-package dev.mrgek.algorithms;
+package dev.mrgek.problems;
 
 import java.util.Objects;
 

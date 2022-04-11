@@ -1,4 +1,4 @@
-package dev.mrgek.algorithms;
+package dev.mrgek.problems;
 
 /*
 * problem: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
