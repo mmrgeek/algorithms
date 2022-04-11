@@ -1,3 +1,3 @@
-# Algorithms
+# Problems
 
-### This repo contains java implementation solutions of problems on LeetCode  
+### This repo contains solutions for problems on LeetCode using Java
